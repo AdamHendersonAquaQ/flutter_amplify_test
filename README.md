@@ -1,0 +1,1 @@
+# flutter_amplify_test
